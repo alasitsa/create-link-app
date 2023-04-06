@@ -1,0 +1,22 @@
+[
+  {
+    "type": "default",
+    "content": "Link",
+    "href": "http://example.com"
+  },
+  {
+    "type": "email",
+    "content": "johndoe@example.com"
+  },
+  {
+    "type": "tel",
+    "content": "+38 123 456 78 90"
+  },
+  {},
+  {
+    "type": "test"
+  },
+  {
+    "type": "tel"
+  }
+]
